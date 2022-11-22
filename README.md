@@ -5,5 +5,5 @@
 
 ## Introduktion till Verktyg  
 
-labb1  
-Detta är en laboration där man får lära sig använda vertyg som 'git bash', 'vim', 'git', 'github' och språket markdown.
+**labb1**  
+Detta är en **laboration** där man får lära sig använda vertyg som 'git bash', 'vim', 'git', 'github' och språket markdown.
