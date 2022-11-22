@@ -13,5 +13,5 @@
 > - git
 > - github
 >
-> och språket *markdown*.
+> och språket *[markdown](https://www.markdownguide.org/basic-syntax "basic syntax guide")*.
 
